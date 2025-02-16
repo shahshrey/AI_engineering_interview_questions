@@ -1,6 +1,6 @@
 > **Summary**: This question bank contains 113 questions across 16 categories.
 
-# LLM INTERVIEW QUESTIONS
+# GenAI INTERVIEW QUESTIONS
 
 ## Table of Contents
 
